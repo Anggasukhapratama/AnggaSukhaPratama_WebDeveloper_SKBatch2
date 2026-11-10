@@ -84,8 +84,9 @@ Sesuai kebijakan pada brief (*TOOLS & AI POLICY*), berikut adalah catatan transp
 
 ## 4. Checklist Sebelum Pengumpulan (Submission Checklist)
 
-- [x] **Output sesuai brief**: Satu section landing page recruitment yang responsif dengan headline, beberapa role cards, dan CTA.
-- [x] **Responsiveness**: Usable dan rapi di layar mobile (`320px–640px`), tablet (`768px`), hingga desktop (`1024px+`).
-- [x] **Mock Data**: Seluruh data lowongan dan simulasi form lamaran menggunakan *mock data* (tidak menyimpan/mengirim data pribadi nyata).
-- [x] **README & AI Policy**: Cara menjalankan project, keputusan utama, dan catatan penggunaan AI sudah disertakan.
-- [x] **Format Nama File / Repo**: Pastikan saat melakukan *zip* atau memberi nama repository mengikuti format `[NamaLengkap]_WebDeveloper_SKBatch2`.
+- [x] ✅ **Output sesuai brief**: Satu section landing page recruitment yang responsif dengan headline, beberapa role cards, dan CTA.
+- [x] ✅ **Responsiveness**: Usable dan rapi di layar mobile (`320px–640px`), tablet (`768px`), hingga desktop (`1024px+`).
+- [x] ✅ **Mock Data**: Seluruh data lowongan dan simulasi form lamaran menggunakan *mock data* (tidak menyimpan/mengirim data pribadi nyata).
+- [x] ✅ **README & AI Policy**: Cara menjalankan project, keputusan utama, dan catatan penggunaan AI sudah disertakan.
+- [x] ✅ **Format Nama File / Repo**: Repository sudah mengikuti format `AnggaSukhaPratama_WebDeveloper_SKBatch2`.
+- [x] ✅ **Link Bisa Dibuka**: Repository GitHub dan Live Demo Vercel dapat diakses publik (*Anyone with the link can view*).
