@@ -3,7 +3,8 @@
 
 - **Nama Kandidat:** Angga Sukha Pratama
 - **Applicant ID:** SKR26-0337
-- **Repository:** [AnggaSukhaPratama_WebDeveloper_SKBatch2](https://github.com/Anggasukhapratama/AnggaSukhaPratama_WebDeveloper_SKBatch2)
+- **GitHub Repository:** [https://github.com/Anggasukhapratama/AnggaSukhaPratama_WebDeveloper_SKBatch2](https://github.com/Anggasukhapratama/AnggaSukhaPratama_WebDeveloper_SKBatch2)
+- **Live Demo (Vercel):** [https://anggasukhapratamawebdeveloperskbatc.vercel.app/](https://anggasukhapratamawebdeveloperskbatc.vercel.app/)
 
 Sebuah implementasi *responsive recruitment landing page section* untuk **Sekolah Karir** yang menampilkan *headline*, *filterable role cards*, *keyword search*, serta *interactive Call-to-Action (CTA)* baik untuk posisi spesifik maupun *open talent pool*.
 
