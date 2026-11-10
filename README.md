@@ -1,9 +1,9 @@
 # Sekolah Karir — Recruitment Landing Page Section
 **Mini Assignment: Web Developer (Batch 2)**
 
-- **Nama Kandidat:** `[Isi Nama Lengkap Sesuai Email Undangan]`
-- **Applicant ID:** `[Isi Applicant ID Sesuai Email Undangan]`
-- **Live Demo (Opsional):** `[Isi Link Vercel Jika Di-deploy]`
+- **Nama Kandidat:** Angga Sukha Pratama
+- **Applicant ID:** SKR26-0337
+- **Repository:** [AnggaSukhaPratama_WebDeveloper_SKBatch2](https://github.com/Anggasukhapratama/AnggaSukhaPratama_WebDeveloper_SKBatch2)
 
 Sebuah implementasi *responsive recruitment landing page section* untuk **Sekolah Karir** yang menampilkan *headline*, *filterable role cards*, *keyword search*, serta *interactive Call-to-Action (CTA)* baik untuk posisi spesifik maupun *open talent pool*.
 
@@ -18,8 +18,8 @@ Sebuah implementasi *responsive recruitment landing page section* untuk **Sekola
 ### Langkah Menjalankan
 1. Clone repository dan masuk ke direktori project:
    ```bash
-   git clone https://github.com/<username>/<NamaLengkap>_WebDeveloper_SKBatch2.git
-   cd <NamaLengkap>_WebDeveloper_SKBatch2
+   git clone https://github.com/Anggasukhapratama/AnggaSukhaPratama_WebDeveloper_SKBatch2.git
+   cd AnggaSukhaPratama_WebDeveloper_SKBatch2
    ```
 2. Install seluruh dependencies:
    ```bash
